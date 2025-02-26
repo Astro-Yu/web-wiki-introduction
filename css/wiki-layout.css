@@ -108,6 +108,10 @@ aside h2 {
   text-indent: -1000rem;
 }
 
+.container {
+	display: grid;
+}
+
 aside.right-sidebar nav {
   padding: var(--right-sidebar-padding);
 }
