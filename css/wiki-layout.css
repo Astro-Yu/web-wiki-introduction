@@ -157,6 +157,10 @@ footer p {
   margin-top: 8px;
 }
 
+.no_dot {
+  list-style-type: none;
+}
+
 :root {
   --page-padding: 48px;
   --page-subtitle-margin-y: 32px;
