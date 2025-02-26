@@ -116,6 +116,16 @@ aside h2 {
   column-gap: 10px;
 }
 
+.test-item {
+  margin: 3px;
+  padding: 2px;
+  border: 3px solid currentColor;
+  border-radius: 3px;
+  font-weight: bold;
+  background: #26ab1c;
+  transition: 0.4s;
+}
+
 aside.right-sidebar nav {
   padding: var(--right-sidebar-padding);
 }
