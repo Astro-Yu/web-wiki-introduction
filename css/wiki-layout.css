@@ -277,6 +277,13 @@ footer p {
   list-style-type: none;
 }
 
+fieldset {
+  display: block;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
+
 :root {
   --page-padding: 48px;
   --page-subtitle-margin-y: 32px;
