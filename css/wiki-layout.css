@@ -118,7 +118,7 @@ aside h2 {
 }
 
 .test-item1 {
-  background-image: url(/images/eu1.jpeg);
+  background-image: url(https://github.com/Astro-Yu/web-wiki-introduction/blob/main/images/eu1.jpeg?raw=true);
   background-size: cover;
   margin: 3px;
   padding: 2px;
@@ -132,7 +132,7 @@ aside h2 {
 }
 
 .test-item2 {
-  background-image: url(/images/eu2.jpeg);
+  background-image: url(https://github.com/Astro-Yu/web-wiki-introduction/blob/main/images/eu2.jpeg?raw=true);
   background-size: contain;
   margin: 3px;
   padding: 2px;
@@ -146,7 +146,7 @@ aside h2 {
 }
 
 .test-item3 {
-  background-image: url(/images/jp1.jpeg);
+  background-image: url(https://github.com/Astro-Yu/web-wiki-introduction/blob/main/images/jp1.jpeg?raw=true);
   background-size: cover;
   margin: 3px;
   padding: 2px;
@@ -160,7 +160,7 @@ aside h2 {
 }
 
 .test-item4 {
-  background-image: url(/images/jp2.jpeg);
+  background-image: url(https://github.com/Astro-Yu/web-wiki-introduction/blob/main/images/jp2.jpeg?raw=true);
   background-size: cover;
   margin: 3px;
   padding: 2px;
@@ -174,7 +174,7 @@ aside h2 {
 }
 
 .test-item5 {
-  background-image: url(/images/jp3.jpeg);
+  background-image: url(https://github.com/Astro-Yu/web-wiki-introduction/blob/main/images/jp4.jpeg?raw=true);
   background-size: cover;
   margin: 3px;
   padding: 2px;
@@ -188,7 +188,7 @@ aside h2 {
 }
 
 .test-item6 {
-  background-image: url(/images/jp4.jpeg);
+  background-image: url(https://github.com/Astro-Yu/web-wiki-introduction/blob/main/images/jp3.jpeg?raw=true);
   background-size: cover;
   margin: 3px;
   padding: 2px;
@@ -202,7 +202,7 @@ aside h2 {
 }
 
 .test-item7 {
-  background-image: url(/images/kr1.jpeg);
+  background-image: url(https://github.com/Astro-Yu/web-wiki-introduction/blob/main/images/kr1.jpeg?raw=true);
   background-size: cover;
   margin: 3px;
   padding: 2px;
@@ -216,7 +216,7 @@ aside h2 {
 }
 
 .test-item8 {
-  background-image: url(/images/kr2.jpeg);
+  background-image: url(https://github.com/Astro-Yu/web-wiki-introduction/blob/main/images/kr2.jpeg?raw=true);
   background-size: cover;
   margin: 3px;
   padding: 2px;
@@ -230,7 +230,7 @@ aside h2 {
 }
 
 .test-item9 {
-  background-image: url(/images/kr3.jpeg);
+  background-image: url(https://github.com/Astro-Yu/web-wiki-introduction/blob/main/images/kr3.jpeg?raw=true);
   background-size: cover;
   margin: 3px;
   padding: 2px;
